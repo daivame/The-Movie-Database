@@ -1,5 +1,5 @@
 This was the Coursework for my Data Science module as a part of my Master's in Information Management and Business Technology
-The pdf provided details my thought process and explains the code in detail
+The pdf provided details my thought process and explains the code in detail and the RAR file contains all of the files used for the project
 Here is a textual summary of the PDF 
 
 Abstract
